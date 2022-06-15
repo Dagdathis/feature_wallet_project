@@ -1,0 +1,6 @@
+10
+16.5736
+Business (taxes, salary, advertising, office and stationery, services):0.328812
+Children (clothing, food, toys, books, babysitting, furniture, services, entertainment):0.013565
+Apartment and communication (electricity, water, heat, gas, radio, telephone, internet, rent, garbage collection, cable TV, security, concierge):0.328812
+games:0.328812
